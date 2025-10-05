@@ -52,6 +52,10 @@ These relationships are consistent with real-world enological findings.
 
 ---
 
+📂 [Download Project File](https://github.com/tiagoalves101-ops/Wine-Quality-Analysis-EDA-and-Correlation-Study/blob/main/winequality-red.csv)
+
+---
+
 ## ▶️ How to Run
 ```bash
 pip install pandas numpy matplotlib seaborn
